@@ -44,3 +44,8 @@ kafka-consumer    | 2022-04-23 16:34:08,267 INFO consumer: Waiting...
 ```
 
 that's it for now.
+
+References used:
+- https://developer.confluent.io/quickstart/kafka-local/
+- https://developer.confluent.io/get-started/python/
+- https://github.com/conduktor/kafka-stack-docker-compose/blob/master/zk-multiple-kafka-multiple.yml
